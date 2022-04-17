@@ -1,4 +1,4 @@
-# tv-script-generation
+# TV Script Generation
 
 This is a deep learning project related to generating TV script.
 
